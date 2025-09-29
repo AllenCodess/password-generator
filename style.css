@@ -1,0 +1,51 @@
+.container {
+    width: 600px;
+    margin: 0px auto;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 300px;
+    background-color: #1F2937;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #10b981;
+    padding: 9px 17px 9px 15px;
+    border-radius: 6px;
+    color: white;
+    font-family: "Arvo", serif;
+
+
+}
+
+
+#passwordone, #passwordtwo {
+    
+    background: #273549;
+    border-radius: 10px;
+    height: 30px;
+    margin: 40px auto;
+    width: 200px;
+    color: #10b981;
+    font-family: "Arvo", serif;
+}
+
+.passwords {
+    display: flex;
+    width: 450px;
+    margin: 0px auto;
+}
+
+
+body {
+    background-color: #1F2937;
+    font-family: "Arvo", serif;
+
+}
+
+strong {
+    color: #10b981;
+    
+}
